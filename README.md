@@ -2,7 +2,7 @@
 Deep Learning-Based COVID-19 &amp; Pneumonia Detection from Chest X-rays
 # AI-Driven Chest X-Ray Classification for COVID-19 and Pneumonia Detection
 
-This project leverages deep learning to automate the classification of chest X-ray images into three diagnostic categories: *COVID-19, **Pneumonia, and **Normal*. It aims to support radiologists with a fast, accurate, and interpretable tool, especially in resource-constrained settings.
+This project leverages deep learning to automate the classification of chest X-ray images into three diagnostic categories: COVID-19, Pneumonia, and Normal. It aims to support radiologists with a fast, accurate, and interpretable tool, especially in resource-constrained settings.
 
 **Watch Our Project Presentation on YouTube**: [Click here to watch](https://youtu.be/_ALUAdxjZF8)
 
