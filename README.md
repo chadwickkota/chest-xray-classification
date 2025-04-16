@@ -23,8 +23,8 @@ Diagnosing respiratory diseases through chest X-rays is difficult due to overlap
 
 ##  Datasets
 
-- *Internal Dataset*: [COVID19-PNEUMONIA-NORMAL Chest X-ray Images](https://www.kaggle.com/datasets/sachinkumar413/covid-pneumonia-normal-chestxray-images) – 5,228 labeled images.
-- *External Dataset*: [Chest X-ray COVID-19 & Pneumonia](https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia) – 6,432 images split into training and test sets (20% test).
+- *Internal Dataset*: [COVID19-PNEUMONIA-NORMAL Chest X-ray Images](https://www.kaggle.com/datasets/sachinkumar413/covid-pneumonia-normal-chestxray-images) – 5,228 labeled images.Download here: https://drive.google.com/file/d/18ccLEZIadRzQD3yI7GB17cyHONhKRUZh/view?usp=sharing 
+- *External Dataset*: [Chest X-ray COVID-19 & Pneumonia](https://www.kaggle.com/datasets/prashant268/chest-xray-covid19-pneumonia) – 6,432 images split into training and test sets (20% test)..Download here: https://drive.google.com/file/d/10fe580BUYlIHl5qpEi3TG3uuBa06GBqc/view?usp=sharing 
 
 These datasets are multi-source and expert-labeled, enhancing clinical relevance and diversity.
 
